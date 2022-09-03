@@ -44,5 +44,5 @@
  DEFAULT=`echo -en "\e[49m"`
  #Cores Fim
  
-mv /1533/atualizar.sh -O /bin/atualizar
+mv /1533/atualizar.sh /bin/atualizar
 chmod 777 /bin/atualizar 
